@@ -1,3 +1,9 @@
+HPDIC MOD
+--------------
+* You may want to manually install the following:
+    - `sudo apt-get install tcllib`
+    - `sudo apt-get install tcl-tls`
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
